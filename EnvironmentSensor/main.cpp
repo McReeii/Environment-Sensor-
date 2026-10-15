@@ -1,3 +1,6 @@
+// All Adafruit Library,
+// Only support for SSD1306 OLED support
+
 #include <Arduino.h>
 #include <DHT.h>
 #include <SPI.h>
